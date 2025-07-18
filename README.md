@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
-<h3 align="center">Building beautiful web apps & solving real-world problems through code.</h3>
+<h1 align="center">Hi 👋, I'm Karan Gautam</h1>
+<h3 align="center">Full-stack Developer | Solving real-world problems through scalable and intelligent web apps.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
+- 🔭 I’m currently working as a **Software Developer Intern** at **CodersBrain Technology Pvt. Ltd.**
+- 🌱 I’m focused on **Spring Boot**, **Docker**, **Kubernetes**, and **AI Integrations**.
+- 💬 Ask me about `Java`, `React`, `Spring Boot`, `MongoDB`, `ML`, `DevOps`.
+- 📫 Reach me at: **karangautam174@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1Qg2K4fxaPfJMoZllKuA2Ysd5mjT7rgRM/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alvk5zj5l-divyansh-sharmas-projects-696ce2ce.vercel.app/](https://portfolio-alvk5zj5l-divyansh-sharmas-projects-696ce2ce.vercel.app/)
+---
 
-- 📫 How to reach me **sdivyanshh958@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uA88gWWP1nxB7heqyQQB2oMz1fMPJsUq/view?usp=drive_link](https://drive.google.com/file/d/1uA88gWWP1nxB7heqyQQB2oMz1fMPJsUq/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/divyansh-sharma-178aa4248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-sharma-178aa4248" height="30" width="40" /></a>
-<a href="https://instagram.com/_.divynsh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.divynsh._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divynsh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divynsh_01" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karan-gautam2834/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-gautam" height="30" width="40" /></a>
+  <a href="https://github.com/KaranG03" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="karang03" height="30" width="40" /></a>
+  <a href="https://leetcode.com/karanG_2834/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanG_2834" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divynsh-01&show_icons=true&locale=en&layout=compact" alt="divynsh-01" /></p>
+### 🛠️ Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divynsh-01&show_icons=true&locale=en" alt="divynsh-01" /></p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divynsh-01&" alt="divynsh-01" /></p>
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaranG03&show_icons=true&locale=en&layout=compact" alt="KaranG03" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaranG03&show_icons=true&locale=en" alt="KaranG03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranG03&" alt="KaranG03" /></p>
+
+---
+
+### 🔥 Projects
+
+- 🚀 [Dead Stock Marketplace](https://github.com/KaranG03/deadboot): Platform for trading unsold inventory using Spring Boot, MongoDB, Docker, K8s.
+- 🏠 [Raj Estate](https://github.com/KaranG03/RajEstate): Property management system hosted on AWS with real-time dashboards.
+- 🏥 [MediCare+](https://github.com/KaranG03/medicare-plus): Health portal for rural India with AI chatbot and multilingual support.
+
+---
+
+### 🏆 Achievements & Certifications
+
+- ☁️ Microsoft Azure AI Fundamentals – 91.8%
+- 🔗 Postman Student Expert – API chaining, scripting, automation
+- ☸️ Kubernetes on GCP – 95/100
+- 🧠 1000+ DSA problems solved | 35+ badges | 700+ day streak
+- 🏅 Finalist – Code4Change Hackathon, Yantra 2025 (Top 10)
+
+---
+
