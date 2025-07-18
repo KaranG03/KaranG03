@@ -7,7 +7,7 @@
 - 🌱 I’m focused on **Spring Boot**, **Docker**, **Kubernetes**, and **AI Integrations**.
 - 💬 Ask me about `Java`, `React`, `Spring Boot`, `MongoDB`, `ML`, `DevOps`.
 - 📫 Reach me at: **karangautam174@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1Qg2K4fxaPfJMoZllKuA2Ysd5mjT7rgRM/view?usp=sharing)
+- 📄 [View My Portfolio](https://karan-gautam-showcase.vercel.app/)
 
 ---
 
